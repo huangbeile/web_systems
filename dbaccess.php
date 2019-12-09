@@ -41,6 +41,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
+add comment by Mamoru Ito 2019/12/9
 </body>
 </html>
 
